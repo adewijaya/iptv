@@ -3919,3 +3919,1483 @@ http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="24/7 PLUTO TV", News 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Telecine Action HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/296
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Telecine Action SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/295
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Nova Action
+http://92.62.234.223/102/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Viasat Film Action
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/71833.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TVCine ACTION HD
+http://148.69.189.5:8000/play/a087/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Viasat Film Action
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/25117.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Viasat Film Action HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/25116.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Extraction
+http://reds.ppdn.tn/vod/Extraction_2020_FR.mp4?code=860127675941345&key=54076&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TV1000 Action
+http://astra.realcrimea.net:8000/play/a08k
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",فيلم Extraction
+https://cdn.alarab.com/h264/154569_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",فيلم Extraction sd
+https://cdn.alarab.com/h264/154569_240p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Action News Jax (WJAX-TV)CBS 47 WJAXJacksonville - WJAX Action News (Opt-1) (New!)US | Jacksonville | CBS 47 WJAX
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Las Vegas - 13 Action NewsLas Vegas - 13 Action News (New!)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sky Sports Action HD-GB
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31152.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cinemax HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/44
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cinemax SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/43
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BTV Cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cairo Cinema
+http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Nile Cinema
+http://178.132.3.162:88/Nile_cinema/video.m3u8?token=test&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CANAL+  CINEMA
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1669.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Persiana 2 Cinema
+http://51.15.193.156/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Greek Cinema 80s 1
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/19198.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Greek Cinema 80s 2
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/61274.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Greek Cinema 80s 3
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/61358.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Village Cinema HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/17600.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Western Cinema 1
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/53931.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Western Cinema 2
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/53970.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ULTRA HD CINEMA
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ZEE cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",STIRR Black CinemaUS | STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AU | Fox Sports NewsFox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Россия
+http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/107
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/109
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/108
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Premium 1 HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/112
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Premium 1 SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/111
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Premium 2 HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/115
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Premium 2 SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/114
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/106
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Sports 2 HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/121
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Sports 2 SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/120
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Sports HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/118
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Sports SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/117
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Tv Greece
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life
+http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX TV FHD
+http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX TV HD
+http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX TV SD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX [SD]
+http://94.46.195.170:9000/foxtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox TV
+https://tv.kuzeytv.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox TürkiyeTR | Fox Türkiye
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX
+http://5.135.92.133:52841/out/u/372_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX 28 Savannah GA (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX 5
+http://cdnak10.cast4u.info/channels/2/10802.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX NEWS LD
+https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX News [144p]
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 HD
+http://brasiltv.pro:8080/304050/304050/5359
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 HD
+http://brasiltv.pro:8080/conceicao/conceicao/5359
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 HD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23118
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 HD [2]
+http://brasiltv.pro:8080/304050/304050/23118
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 SD [2]
+http://brasiltv.pro:8080/304050/304050/23119
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS 2 SD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23119
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS FHD H265
+http://brasiltv.pro:8080/304050/304050/5357
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS FHD H265
+http://brasiltv.pro:8080/conceicao/conceicao/5357
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS FHD H265
+http://brasiltv.pro:8080/Abeljorge2/270381/5357
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS FHD [2]
+http://brasiltv.pro:8080/304050/304050/23120
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS FHD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23120
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS HD
+http://brasiltv.pro:8080/304050/304050/5360
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS HD
+http://brasiltv.pro:8080/conceicao/conceicao/5360
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS HD
+http://brasiltv.pro:8080/Abeljorge2/270381/5360
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS HD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23121
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS HD [2]
+http://brasiltv.pro:8080/304050/304050/23121
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/conceicao/conceicao/5362
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/conceicao/conceicao/5361
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/Abeljorge2/270381/5361
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/304050/304050/5362
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/304050/304050/5361
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD
+http://brasiltv.pro:8080/Abeljorge2/270381/5362
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX SPORTS SD [2]
+http://brasiltv.pro:8080/conceicao/conceicao/23122
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOXS PORTS 2 FHD H265
+http://brasiltv.pro:8080/conceicao/conceicao/5358
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOXS PORTS 2 FHD H265
+http://brasiltv.pro:8080/Abeljorge2/270381/5358
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOXS PORTS 2 FHD H265
+http://brasiltv.pro:8080/304050/304050/5358
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Comedy HD
+http://188.35.9.11:21161/udp/173c
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life
+http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life
+http://178.217.72.66:80/225.201.2.203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life
+https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Foxter et Max
+http://reds.ppdn.tn/vod/Foxter_et_Max_2019_FR.mp4?code=840016827610293&key=54076&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Portalfoxmix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX 23 KOKI NEWSFOX 23 Tulsa OK (KOKI-TV)US | Tulsa | FOX 23 KOKI NEWS
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX 28 Savannah GA (WTGS)FOX 28 WTGSUS | Savannah | FOX 28 WTGS
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX MIX
+http://tvaz.top:80/arlan1/123456/71693
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox
+http://hlstv.kem.211.ru/239.211.211.91/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox HD (Резерв3)
+http://hlstv.kem.211.ru/239.211.200.17/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fox Life HD (Резерв1)
+http://hlstv.kem.211.ru/239.211.200.18/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO 2 HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/174
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO 2 SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/173
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Family HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/177
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Family SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/176
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/171
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Mundi HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/194
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Mundi SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/193
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Plus HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/179
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Plus SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/178
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Plus*e HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/181
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Plus*e SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/180
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Pop HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/200
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Pop SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/199
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/170
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Signature HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/183
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Signature SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/182
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Xtreme HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/196
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",HBO Xtreme SD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/195
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",A Beautiful Day In The Neighborhood
+http://reds.ppdn.tn/vod/A_Beautiful_Day_In_The_Neighborhood_2019_FR.mp4?code=840016827610293&key=54076&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Al Hiwar
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC ALBA (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Four (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Four (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/820
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC News (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/825
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC News (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/826
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One London (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One Northern Ireland (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One Northern Ireland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/811
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One Scotland (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC One Scotland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/813
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Parliament (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/827
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Two England (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Two England (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/815
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Two Northern Ireland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/817
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Two Scotland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/818
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC Two Wales (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/816
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",British Muslim TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBBC (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBBC (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/822
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBeebies (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/823
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBeebies (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/824
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 1 (Backup)
+https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 1 Original
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",S4C (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Venus TV (Backup)
+https://a.jsrdn.com/rtmp/22690/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",30A Music
+https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",30A TV
+https://30a-tv.com/my999.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",3News Now (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC 9 Chattanooga TN (WTVC)
+https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beach TV (CSULB)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beach TV (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Beto TV
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BlazeTV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV EMEA Live Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Europe
+https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Live Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bloomberg TV Politics Live Event
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Bowie TV
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Brut.
+https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",byu TV
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Catholic TV
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBN Español
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CC-TV (Charlotte County)
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CCX2
+https://nwct-tr-ls2.nwct.org/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CCX3
+https://nwct-tr-ls3.nwct.org/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cerritos TV3
+https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cheddar
+https://live.chdrstatic.com/cheddar/primary/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CNBC Arabiya
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CTN
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DC Council Channel
+https://video.oct.dc.gov/out/u/15_12.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Denver 8 TV
+https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",District of Columbia Network
+https://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Divine Vision
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Dr. Gene Scott
+https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Dream TV
+https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Escambia County TV
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fairfax Public Access
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX 28 Savannah GA (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Globesville (New York Institute of Technology)
+https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",GuideUS TV
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Inspiration TV
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Ion 8 Christiansted VI (WSVI-TV)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",ISN
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jewelry Television
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jewish Life TV
+https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Justice Network (WMGM)
+https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",KBVR TV
+https://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",KOMO News (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",KTLA 5
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",KTVB
+https://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Lex TV
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",LifevisionTV
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Local Now Philidelphia
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MCN6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Mo Laughter
+https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MTV Norge
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC 15 Madison WI (WMTVNBC)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",NRBTV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Olelo 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Olympic Channel (US NBC)
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Opportunity Knocks
+https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Planet Cannabis Entertainment
+https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Radio y Televisión Martí
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Revelation TV
+https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",SafeTV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",SBN
+https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",SBN
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",SBN Global
+https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sky Eagle TV
+http://209.222.15.35:1935/SkyEagleTV/smil:SkyEagleTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",SubRang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Super Tennis
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TCT
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Telemundo 44
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Tempe 11
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Film Detective
+https://distro.akamaized.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Now Network
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",USA
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",UWW-TV
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Venus TV (US Pacific)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Victory Television Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Viva Cristo TV
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",VoA TV
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WCCA-TV (Worcester)
+https://worcester.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WCLF
+http://162.244.80.254:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Weather Nation
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WeatherNation TV
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",White Plains Community Media
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WHPR
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WPEC CBS12 News
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",WSJ
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Xcorps TV
+https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",AsSalt TV
+https://stream.ecable.tv/asstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Chaine Nord Africaine
+https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Classic
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Dance Floor
+https://djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",MOTOR SPORT
+http://45.58.62.92:8084
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Red Bull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Swamiji TV
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",The Boat Show
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="CAMPURAN",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
