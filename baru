@@ -195,3 +195,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
+http://fonteangelusiptv.com:25461/18981213215giselen3/8y5g2f56d/178737?checkedby:hlscat.com
