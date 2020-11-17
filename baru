@@ -205,6 +205,9 @@ http://rec2.distv.net:80/egidio/egidio/471?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
 http://admin-mainpanel.club:8080/marcos/marcos/27414?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
+http://fonteangelusiptv.com:25461/darkman/darkman/178735?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO Asia
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT?checkedby:hlscat.com
 
