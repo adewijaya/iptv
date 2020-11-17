@@ -199,14 +199,26 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checked
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
 http://fonteangelusiptv.com:25461/18981213215giselen3/8y5g2f56d/178737?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
+http://rec2.distv.net:80/egidio/egidio/471?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO
+http://admin-mainpanel.club:8080/marcos/marcos/27414?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO Asia
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO Family
 http://fonteangelusiptv.com:25461/18981213215giselen3/8y5g2f56d/178748
 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO Family
+http://admin-mainpanel.club:8080/marcos/marcos/27410?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO 2
 http://rec2.distv.net:80/pablo/123/472
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",HBO 2
+http://admin-mainpanel.club:8080/marcos/marcos/27411?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIE",&PriveHD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
